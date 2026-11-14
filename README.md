@@ -1,5 +1,5 @@
 # Into the Breach Mod Manager
-A mod manager for Into the Breach. Downloads and updates the modloader and Github-hosted mods based on a catalogue hosted in another repository, maintained by me.
+A mod manager for Into the Breach. Downloads and updates the modloader and Github-hosted mods based on a [catalogue]([url](https://github.com/Metalocif/ItB-Workshop-Mod-List/blob/main/modlist.json)) hosted in another repository, maintained by me.
 Windows only.
 
 # How to use
