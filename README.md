@@ -2,6 +2,9 @@
 A mod manager for Into the Breach. It automatically downloads and updates the modloader and Github-hosted mods based on a [catalogue](https://github.com/Metalocif/ItB-Workshop-Mod-List/blob/main/modlist.json) hosted in another repository, maintained by me.
 Windows only.
 
+<img width="918" height="469" alt="image" src="https://github.com/user-attachments/assets/04ec0eb8-0f3d-4ed4-9e6a-70ef6f866c0b" />
+
+
 # How to use
 
 Download all files and run ITB Mod Manager.exe.\
