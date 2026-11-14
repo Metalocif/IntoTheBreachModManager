@@ -6,7 +6,7 @@ Windows only.
 
 Download all files and run ITB Mod Manager.exe.\
 If you don't have Git installed already, it will download MinGit (used to download and update files) when you first run it.\
-First, click "Choose game folder..." and navigate to your Into the Breach folder. If you can't find its location on your computer, use [Everything](https://www.voidtools.com/)) to find it by searching Breach.exe. Its location determines where mods will be installed.\
+First, click "Choose game folder..." and navigate to your Into the Breach folder. If you can't find its location on your computer, use [Everything](https://www.voidtools.com/) to find it by searching Breach.exe. Its location determines where mods will be installed.\
 Click mods to see their descriptions. Double-click to subscribe or unsubscribe.\
 Then, click "Sync Subscriptions". It will automatically download the most recent version of the modloader and all subscribed mods.\
 Finally, just start the game. You will probably need to "calibrate" memedit. Just follow in-game instructions.
