@@ -15,3 +15,5 @@ Then, click "Sync Subscriptions". It will automatically download the most recent
 Finally, just start the game. You will probably need to "calibrate" memedit. Just follow in-game instructions.
 
 If you run into any bugs or issues, join the Discord by clicking the "Official Discord" button. Tag @Metalocif to get in touch with me.
+
+<img width="892" height="759" alt="image" src="https://github.com/user-attachments/assets/28f87ac8-3052-47a7-861b-e6b02d8fd5f9" />
