@@ -28,7 +28,7 @@ return {
 	
 	--These three are purely visual.
 	app_name = "ITB Mod Manager",
-    description = "Git-based mod subscriptions for Into the Breach.\nDouble-click a row to open its Github page. Click headers to sort.",
+    description = "Git-based mod subscriptions for Into the Breach.\nDouble-click a row to open its Github page. Right-click a row to read the author's description.",
 	game_name = "Into the Breach",
 	--Affects functionality. The app looks for this to ensure it found the game folder.
     game_executable = "Breach.exe",
